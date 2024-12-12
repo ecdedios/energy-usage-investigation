@@ -6,6 +6,8 @@
 
 ## Data
 
+/electric_usage
+
 ## Findings
 
 The most interesting insight is...
