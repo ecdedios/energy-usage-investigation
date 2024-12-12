@@ -10,17 +10,15 @@
 
 ## Findings
 
-The most interesting insight is...
+That one time when the AC broke but we didn't notice it...
 
-![Matplotlib](xxx.png)
+![Quarterly](https://github.com/ecdedios/energy-usage-investigation/blob/main/screenshots/Screenshot%202024-12-11%20195345.png)
 
-![Power BI](xxx.png)
+![Monthly](https://github.com/ecdedios/energy-usage-investigation/blob/main/screenshots/Screenshot%202024-12-11%20195435.png)
 
 ## Interactive Dashboard
 
-![Power BI Dashboard](xxx.png)
-
-[Link to the dashboard](xxx)
+[Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2MyM2Q4YzktYmNkOC00YTUwLTkyNjYtNmI5OTQzNGMyMGY5IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
 
 ## Usage
 
